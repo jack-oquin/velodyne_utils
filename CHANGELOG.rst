@@ -1,7 +1,7 @@
 Change history
 ==============
 
-0.4.0 (forthcoming)
+0.4.0 (2013-07-25)
 ------------------
 
  * ROS Hydro.
