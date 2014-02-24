@@ -21,7 +21,7 @@
 
   <export>
     <metapackage/>
-    <architecture-independent/>
+    <architecture_independent/>
     <deprecated>
       This metapackage will be removed in ROS Indigo.  Instead, use
       the velodyne_height_map package directly.
